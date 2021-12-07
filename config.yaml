@@ -1,24 +1,32 @@
-username: 
-password: 
+username: guptanipun1@gmail.com
+password: saksham99
 
 positions:
-- Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
-
+- Business Analyst
+- Project Manager # Another position you want to search for
+- Product Manger # A third position you want to search for
+- Business Systems Analyst
+- Analyst
+- Scrum Master
+- Product Owner
+- Product delivery 
 locations:
-- Remote
-- # A second location you want to search in 
-
+- Jersey City
+- New Jersey # A second location you want to search in 
+- San Francisco
+- California
+- New york
+- Greate New York Area
+- USA
 # --------- Optional Parameters -------
-# uploads:
-#  Resume: # PATH TO Resume 
-#  Cover Letter: # PATH TO cover letter
+uploads:
+  Resume: /Users/samanarora/Desktop/NG/Resume Nipun Gupta (2).pdf
+#  Cover Letter: 
 #  Photo: # PATH TO photo
 
 
-# output_filename:
-# - # PATH TO OUTPUT FILE (default output.csv)
+output_filename:
+ - Applied.csv # PATH TO OUTPUT FILE (default output.csv)
 
 # blacklist:
 # - # Company names you want to ignore
